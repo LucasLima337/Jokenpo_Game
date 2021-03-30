@@ -1,4 +1,4 @@
 # Jokenpo Game
- Programa feito em python para jogar **Pedra, Papel e Tesoura!**
+ Program created using python to play **Jokenpo**!
 
- OBS: Para uma melhor experiência, utilize o **pycharm** para abrir a pasta Game e executar o arquivo.
+ OBS: You should use **Pycharm** to get a better experience
